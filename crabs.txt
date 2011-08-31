@@ -1,0 +1,26 @@
+chinasmack.com
+mashable.com
+www.youtube.com/26
+# s.ytimg.com
+gg.google.com/24
+# images.google.com/24
+# groups.google.com
+# docs.google.com
+# These two should already be covered by docs.google.com
+# 1.bp.blogspot.com
+# 2.bp.blogspot.com
+# themes.googleusercontent.com
+# 13.docs.google.com
+# blogger.com
+# omegle.com
+messenger.hotmail.com
+github.com
+identi.ca
+iteadstudio.com
+seeedstudio.com
+# bits.wikipedia.org
+www.thepiratebay.org
+static.thepiratebay.org
+tracker.thepiratebay.org
+# torrents.thepiratebay.org
+www.torrentsnipe.info

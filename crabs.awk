@@ -49,11 +49,11 @@ function report(ip, mask)
         if (mask == "255.255.255.255")
             print "route add -host", ip, "dev tun0";
         else
-            print "route add -net", ip, "netmask", mask, "dev tun0";;
+            print "route add -net", ip, "netmask", mask, "dev tun0";
     }
     else
     {
-        print "push \"route", ip, mask, "\""
+        print "push \"route", ip, mask "\""
     }
 }
 

@@ -1,3 +1,4 @@
+google-public-dns-a.google.com
 chinasmack.com
 mashable.com
 www.youtube.com/26

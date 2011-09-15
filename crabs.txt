@@ -5,6 +5,7 @@ www.youtube.com/26
 # s.ytimg.com
 gg.google.com/24
 browserchannel-docs.l.google.com
+googleappengine.blogspot.com
 # images.google.com/24
 # groups.google.com
 # docs.google.com
@@ -26,3 +27,4 @@ static.thepiratebay.org
 tracker.thepiratebay.org
 # torrents.thepiratebay.org
 www.torrentsnipe.info
+www.archive.org

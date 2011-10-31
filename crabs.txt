@@ -31,6 +31,8 @@ seeedstudio.com
 www.thepiratebay.org
 static.thepiratebay.org
 tracker.thepiratebay.org
-# torrents.thepiratebay.org
+torrents.thepiratebay.org
 www.torrentsnipe.info
 www.archive.org
+web.archive.org
+www.facebook.com

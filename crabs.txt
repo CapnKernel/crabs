@@ -38,3 +38,4 @@ web.archive.org
 # I think facebook is going to be a bit difficult
 www.facebook.com
 www-15-02-snc5.facebook.com
+lb.wordpress.com

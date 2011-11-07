@@ -39,3 +39,5 @@ web.archive.org
 www.facebook.com
 www-15-02-snc5.facebook.com
 lb.wordpress.com
+tutorials.zen-cart.com
+www.zen-cart.com

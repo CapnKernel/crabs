@@ -3,7 +3,7 @@ chinasmack.com
 mashable.com
 www.youtube.com/26
 s.ytimg.com
-i2.ytimg.com
+# i2.ytimg.com
 gg.google.com/24
 browserchannel-docs.l.google.com
 google.com/24

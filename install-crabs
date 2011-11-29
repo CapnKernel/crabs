@@ -1,12 +1,21 @@
 #! /bin/bash
 
-CRABS=/home/mjd/crabs
+CRABS=$(dirname $0)
+# /home/mjd/crabs
 SYSROUTES=/etc/openvpn/vpn1/routes
 LOCALLIST=$CRABS/crabs.txt
 CRABS_SCRIPT=$CRABS/crabs.awk
+
+if [ "$1" = "-c" ]; then
+  exec > /dev/null 2>&1
+fi
 
 set -x
 wget -O crabs.tar.gz https://github.com/CapnKernel/crabs/tarball/master
 tar --strip-components=1 -xzvf crabs.tar.gz
 
-su -c "set -x; $CRABS_SCRIPT < $LOCALLIST > $SYSROUTES; service openvpn stop; sleep 1; service openvpn start"
+if [ "$1" = "-c" ]; then
+  $CRABS_SCRIPT < $LOCALLIST > $SYSROUTES
+else
+  su -c "set -x; $CRABS_SCRIPT < $LOCALLIST > $SYSROUTES; service openvpn stop; sleep 1; service openvpn start"
+fi

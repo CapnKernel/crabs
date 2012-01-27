@@ -7,6 +7,7 @@ s.ytimg.com
 gg.google.com/24
 browserchannel-docs.l.google.com
 google.com/24
+accounts.l.google.com
 googleappengine.blogspot.com/24
 blogspot.l.google.com/24
 googlecode.l.google.com
@@ -50,3 +51,4 @@ scribd.com
 www.scribd.com
 www.linkedin.com
 dl.dropbox.com
+www.imdb.com

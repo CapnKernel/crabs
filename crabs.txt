@@ -2,8 +2,10 @@ google-public-dns-a.google.com
 chinasmack.com
 mashable.com
 www.youtube.com/26
-s.ytimg.com
+# s.ytimg.com
 # i2.ytimg.com
+ytstatic.l.google.com/25
+o-o.preferred.exetel-syd1.v19.lscache3.c.youtube.com
 gg.google.com/24
 browserchannel-docs.l.google.com
 google.com/24
@@ -53,3 +55,4 @@ www.linkedin.com
 dl.dropbox.com
 www.imdb.com
 t.co
+yfrog.com/25

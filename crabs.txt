@@ -34,10 +34,7 @@ identi.ca
 iteadstudio.com
 seeedstudio.com
 # bits.wikipedia.org
-www.thepiratebay.org
-static.thepiratebay.org
-tracker.thepiratebay.org
-torrents.thepiratebay.org
+www.thepiratebay.org/26
 www.torrentsnipe.info
 www.archive.org
 web.archive.org

@@ -22,6 +22,7 @@ groups.l.google.com
 # 2.bp.blogspot.com
 # themes.googleusercontent.com
 # 13.docs.google.com
+www-google-analytics.l.google.com
 # blogger.com
 # omegle.com
 www.flickr.com

@@ -1,3 +1,5 @@
+# Also have a look here: http://getfoxyproxy.org/proxylists.html
+# And here: http://wormfood.net/list.txt
 google-public-dns-a.google.com
 chinasmack.com
 mashable.com
@@ -9,6 +11,7 @@ o-o.preferred.exetel-syd1.v19.lscache3.c.youtube.com/26
 gg.google.com/24
 browserchannel-docs.l.google.com
 google.com/24
+mail.google.com/24
 accounts.l.google.com
 googleappengine.blogspot.com/24
 blogspot.l.google.com/24

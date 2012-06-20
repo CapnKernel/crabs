@@ -8,13 +8,15 @@ www.youtube.com/26
 # i2.ytimg.com
 ytstatic.l.google.com/25
 o-o.preferred.exetel-syd1.v19.lscache3.c.youtube.com/26
+o-o.preferred.dfw06s10.v2.lscache2.c.youtube.com
+# ^ that resolved to 173.194.24.106
 gg.google.com/24
 browserchannel-docs.l.google.com
 google.com/24
 mail.google.com/24
 accounts.l.google.com
 googleappengine.blogspot.com/24
-blogspot.l.google.com/24
+blogspot.l.google.com/29
 googlecode.l.google.com
 # images.google.com/24
 # groups.google.com
@@ -58,3 +60,5 @@ www.imdb.com
 t.co
 j.mp/30
 yfrog.com/25
+sinocism.com
+scribd.com/29
